@@ -16,7 +16,7 @@ Now I am working in the Alibaba Cloud Compiler Group on LLM reasoning framework 
 
 My Google Scholar homepage is in [Google Scholar](https://scholar.google.com/citations?user=zyhqhRUAAAAJ&hl=zh-CN).
 
-## News____________________________________________
+## News__________________________________________________________________________________________________________________________________________________________
 * ACL2025 Findings accepted our paper "Consultant Decoding: Yet Another Synergistic Mechanism,",2025
 * New preprint on "LeetDecoding: A PyTorch Library for Exponentially Decaying Causal Linear Attention with CUDA Implementations",2025[[arxiv]](https://arxiv.org/abs/2501.02573)
 * New preprint on "CFP: A Reinforcement Learning Framework for Comprehensive Fairness-Performance Trade-Off in Machine Learning",2024[[arxiv]](https://link.springer.com/chapter/10.1007/978-3-031-72332-2_30)
