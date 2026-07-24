@@ -6,13 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a second-year graduate student in Software Engineering at East China Normal University. My supervisor is Professor Jianwen Li. I received my bachelor's degree in Software Engineering from East China Normal University in 2023.
+I received my bachelor's degree in Software Engineering from East China Normal University in 2023. My supervisor is Professor Jianwen Li. 
 
-My research interests are mainly Efficient ML, LLM, Agent, AI Compile. I am very interested in how to improve the training and inference speed of large language models, including but not limited to optimizing operators and training and inference frameworks.
+My research primarily focuses on large language model (LLM) optimization, encompassing both training and inference. I am particularly interested in accelerating LLM training and inference through techniques such as speculative decoding and framework-level improvements. Beyond LLM optimization, I also find world models a fascinating research direction. I welcome anyone with shared interests in these topics to reach out and connect.
 
 From May 2024 to March 2025, I interned in the Base Model Group of Sensetime Research Institute. I worked on the reasoning acceleration of large models and data synthesis of base models. 
 
-Now I am working in the Alibaba Cloud Compiler Group on LLM reasoning framework optimization and AI compilation-related work.
+I recently joined the Alibaba Cloud Compiler Group, focusing on LLM inference framework optimization and AI compiler-related work. I am also open to exciting career opportunities.
 
 My Google Scholar homepage is in [Google Scholar](https://scholar.google.com/citations?user=zyhqhRUAAAAJ&hl=zh-CN).
 
