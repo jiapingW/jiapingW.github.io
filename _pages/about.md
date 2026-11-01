@@ -14,8 +14,6 @@ From May 2024 to March 2025, I interned in the Foundation Model Group at SenseTi
 
 Since May 2025, I have been with the Alibaba Cloud Compiler Group, working on LLM inference framework optimization and AI compiler development. I‘m also open to exciting career opportunities now.
 
-My Google Scholar homepage is in [Google Scholar](https://scholar.google.com/citations?user=zyhqhRUAAAAJ&hl=zh-CN).
-
 ## News__________________________________________________________________________________________________________________________________________________________
 * ACL2025 Findings accepted our paper "Consultant Decoding: Yet Another Synergistic Mechanism,",2025
 * New preprint on "LeetDecoding: A PyTorch Library for Exponentially Decaying Causal Linear Attention with CUDA Implementations",2025[[arxiv]](https://arxiv.org/abs/2501.02573)
